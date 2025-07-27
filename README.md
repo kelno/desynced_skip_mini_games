@@ -1,7 +1,8 @@
 Mod for [Desynced](https://steamcommunity.com/app/1450900)
 
 Description:  
-Disable minigames. 
-This can be enabled or disabled later when the game is already started.  
-This mod is meant to replace https://steamcommunity.com/sharedfiles/filedetails/?id=3021964435 which breaks the game.  
-This is written to be future-proof and the least invasive possible.  
+This mimics the skip mini game setting you can set on game creation, except this mod can be toggled at any point.
+
+This replaces the [original Skip MiniGames mod by kma248](https://steamcommunity.com/sharedfiles/filedetails/?id=302196443), which is no longer maintained and breaks many explorables in the game.
+
+This is written to be cleaner, future-proof and the least invasive possible.  
