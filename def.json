@@ -1,0 +1,19 @@
+{
+  "id": "kelno_skipminigames",
+  "name": "Skip mini games - Clean edition",
+  "version_name": "1.0",
+  "version_code": 1,
+  "author": "Kelno",
+  "homepage": "",
+  "description": "Allow skipping mini games automatically when opening an explorable. This replaces the original Skip MiniGames mod by kma248, which is no longer maintaine and breaks the game. This version written to be cleaner and less invasive.",
+  "packages": {
+    "Data": {
+      "name": "Data",
+      "entry": "ui.lua",
+      "dependencies": [
+        "Main/UI"
+      ],
+      "type": "Addon"
+    }
+  }
+}
